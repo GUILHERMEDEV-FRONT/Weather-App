@@ -29,7 +29,7 @@ Os usuários podem:
 ### 📸 Screenshot
 
 
-*(![alt text](image.png))*
+*(![alt text]image.png)*
 
 ---
 
@@ -48,3 +48,23 @@ Os usuários podem:
 Neste projeto, aprofundei meus conhecimentos em manipulação de estados complexos no React, especialmente para sincronizar diferentes unidades de medida (Temperatura, Vento e Chuva) em todos os componentes simultaneamente.
 
 Também foquei em **Acessibilidade e UX**, criando estados de `hover` e `focus` claros:
+
+# Clone o repositório
+git clone https://github.com/seu-usuario/weather-app.git
+
+# Entre na pasta
+cd weather-app
+
+# Instale as dependências
+npm install
+
+# Inicie o servidor de desenvolvimento
+npm run dev
+
+## Links
+
+* 💼 **LinkedIn:** [Conecte-se comigo](https://www.linkedin.com/in/guilherme-junio/)
+
+*  🌍 **Site ao vivo:** [Acesse o projeto aqui](https://weather-app-phi-eight-25.vercel.app/)
+
+*  * 🧩 **Solução no Frontend Mentor:** [Veja minha solução](https://www.frontendmentor.io/solutions/utilizei-neste-projeto-react-css-grid-e-flexbox-open-meteo-api-MdJ0Y20RmI)
