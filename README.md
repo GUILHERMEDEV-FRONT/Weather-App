@@ -29,7 +29,7 @@ Os usuários podem:
 ### 📸 Screenshot
 
 
-*(![alt text]image.png)*
+*(![alt text](image.png))*
 
 ---
 
